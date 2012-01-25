@@ -1,0 +1,22 @@
+READ ME - Updated September 28, 2009 - Indexing Project
+
+I.    Instructional Use
+II.    Usage
+
+
+I.    First, download part of speech tagger
+    http://nlp.stanford.edu/software/stanford-postagger-2008-09-28.tar.gz
+
+   
+    Second, download Jama - for matrices
+    http://math.nist.gov/javanumerics/jama/
+
+    Installing through Eclipse:
+    Right Click Project Folder -> Properties -> Java Build Path -> Add
+
+II.    Compile program, it will prompt for a corpus.
+    Enter the locative directory. This will ask about three times:
+    One for the tagged corpus, one for freq analysis
+    And one final with the usage of modules.
+
+    View thesis for test number on frequency threshold

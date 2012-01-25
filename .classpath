@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry exported="true" kind="lib" path="lib/external/ant.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/external/checkstyle-all-4.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/external/PDFBox-0.7.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/external/abbot.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/external/bcmail-jdk14-132.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/external/bcprov-jdk14-132.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/external/FontBox-0.1.0-dev.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/external/java.util.List"/>
+	<classpathentry exported="true" kind="lib" path="lib/external/jmatharray.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/external/jmathio.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/external/jmathplot.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/external/junit.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/external/libsvm.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/external/lucene-core-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/external/lucene-demos-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/external/poi-3.5-beta3-20080926.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/external/poi-contrib-3.5-beta3-20080926.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/external/poi-jdk14-3.5-beta3-20080926.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/external/poi-ooxml-3.5-beta3-20080926.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/external/poi-scratchpad-3.5-beta3-20080926.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/external/bidirectional-wsj-0-18.tagger"/>
+	<classpathentry kind="lib" path="lib/external/jgrapht-0.8.1/lib/jgraph.jar"/>
+	<classpathentry kind="lib" path="lib/external/concurrent.jar"/>
+	<classpathentry kind="lib" path="lib/external/stanford-postagger-2010-05-26.jar"/>
+	<classpathentry kind="lib" path="/home/kevyn/workspace/JavaIndexer/lib/external/colt.jar"/>
+	<classpathentry kind="lib" path="/home/kevyn/workspace/JavaIndexer/lib/external/Jama-1.0.2.jar" sourcepath="/home/kevyn/Desktop/JamaPack/"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
